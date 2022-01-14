@@ -38,6 +38,9 @@ body{
 /* influencer-info end */
 
  /* Gallery section  */
+ .collection{
+     text-align: center;
+ }
  .available-stock{
      display: grid;
      grid-template-columns: repeat(3, 1fr);
@@ -78,4 +81,18 @@ body{
     float: right;
     margin-right: 110px;
     margin-top: 40px;
+}
+/* footer section start */
+.last-box{
+    width: 1440px;
+    height: 239px;
+    background-color: #0A0826;
+    margin-top: 80px;
+    color: white;
+    text-align: center;
+    
+}
+.box-info{
+    padding-top: 20px;
+    
 }
