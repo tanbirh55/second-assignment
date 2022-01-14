@@ -1,6 +1,8 @@
 body{
+    margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
-    
+ /* influencer-info    */
 }
 .container{
     margin-top: 20px;
@@ -32,4 +34,40 @@ body{
     background-color: #E02C6D;
     border-radius: 41px;
     padding: 10px 24px;
+}
+/* influencer-info end */
+
+ /* Gallery section  */
+ .available-stock{
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+
+ }
+.gallerys{
+    width: 329px;
+    height: 420px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px;
+    padding: 25px 0 25px 25px;
+    margin-top: 30px;
+}
+.gallery{
+    width: 300px;
+    height: 256px;
+    border-radius: 5px;
+    /* /* padding-left: 10px; */
+} */
+.available{
+    
+    font-size: 28px;
+}
+.fund{
+    font-size: 14px;
+    color: gray;
+}
+.filled{
+    color: orange;
+}
+.empty{
+    color: gray;
 }
