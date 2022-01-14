@@ -45,9 +45,9 @@ body{
  }
 .gallerys{
     width: 329px;
-    height: 420px;
+    height: 450px;
     border-radius: 5px;
-    box-shadow: 0 0 10px;
+    box-shadow: 0 0 20px;
     padding: 25px 0 25px 25px;
     margin-top: 30px;
 }
@@ -55,8 +55,8 @@ body{
     width: 300px;
     height: 256px;
     border-radius: 5px;
-    /* /* padding-left: 10px; */
-} */
+    
+} 
 .available{
     
     font-size: 28px;
@@ -70,4 +70,12 @@ body{
 }
 .empty{
     color: gray;
+}
+.next{
+    color: #E02C6D;
+    font-size: 16px;
+    font-weight: 700;
+    float: right;
+    margin-right: 110px;
+    margin-top: 40px;
 }
