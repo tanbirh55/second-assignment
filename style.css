@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.container{
+    margin-top: 20px;
+    padding: 5px 60px;
+}
+.influencer{
+    display: flex;
+    margin-top: 100px;
+}
+.influencer-info{
+    width: 582px;
+    height: 270px;
+}
+.vission{
+    width: 582px;
+    height: 133px;
+    font-size: 52px;
+    font-weight: 700;
+}
+.photo{
+    width: 440px;
+    height: 414px;
+    padding-left: 200px;
+}
+.link-button{
+    text-decoration: none;
+    width: 196px;
+    height: 44px;
+    background-color: #E02C6D;
+    border-radius: 41px;
+    padding: 10px 24px;
+}
