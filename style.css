@@ -2,8 +2,10 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+   
  /* influencer-info    */
 }
+
 .container{
     margin-top: 20px;
     padding: 5px 60px;
@@ -13,7 +15,7 @@ body{
     margin-top: 100px;
 }
 .influencer-info{
-    width: 582px;
+    width: 550px;
     height: 270px;
 }
 .vission{
@@ -24,7 +26,7 @@ body{
 }
 .photo{
     width: 440px;
-    height: 414px;
+    height: 400px;
     padding-left: 200px;
 }
 .link-button{
@@ -58,6 +60,7 @@ body{
     width: 300px;
     height: 256px;
     border-radius: 5px;
+   
     
 } 
 .available{
@@ -67,6 +70,7 @@ body{
 .fund{
     font-size: 14px;
     color: gray;
+    line-height: 5px;
 }
 .filled{
     color: orange;
@@ -82,9 +86,15 @@ body{
     margin-right: 110px;
     margin-top: 40px;
 }
+/* student selection */
+.social-icon{
+    width: 70%;
+    border-radius: 10px;
+}
+
 /* footer section start */
 .last-box{
-    width: 1440px;
+    width: 1300px;
     height: 239px;
     background-color: #0A0826;
     margin-top: 80px;
@@ -96,3 +106,5 @@ body{
     padding-top: 20px;
     
 }
+/* hover effect */
+
